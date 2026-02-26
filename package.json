@@ -1,0 +1,1 @@
+{\n  "name": "were-not-alone",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "preview": "vite preview"\n  },\n  "devDependencies": {\n    "svelte": "^3.44.0",\n    "vite": "^2.6.0",\n    "@sveltejs/vite-plugin-svelte": "^1.0.0"\n  }\n}\n
